@@ -1,1 +1,1 @@
-# PRODIGY_WD_Proj_4-Responsive-Landing-Page-
+Responsive College Website
